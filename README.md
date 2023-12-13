@@ -1,4 +1,4 @@
-# webscraping-challenge
+# Mars Webscraping Challenge
 
 ## Contributors: Alex Calametti
 
@@ -67,6 +67,6 @@ The purpose of this project is to utilize skills in web scraping, data extractio
 7. Save the final DataFrame to a CSV file for future reference (mars_weather.csv).
 
 
-#Acknowledments
+# Acknowledments
 
 Thank you to my tutor Geronimo Perez and for helping me troubleshoot on this project! 
